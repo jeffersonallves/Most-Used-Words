@@ -18,8 +18,7 @@ export default {
     data: function () {
         return {
             files: [],
-            groupedWords: [],
-            paths: []
+            groupedWords: []
         }
     },
     methods: { 
