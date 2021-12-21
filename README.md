@@ -17,7 +17,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -26,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jeffersonallves/most-used-words">
-    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Most Used Words</h3>
@@ -61,11 +60,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="assets/tela.png">
-<img src="assets/tela2.png">
-<!-- [![Product Name Screen Shot][product-screenshot]] -->
-
-<!-- [![Product Name Screen Shot][product-screenshot-2]] -->
+<img src="src/assets/tela.png">
+<img src="src/assets/tela2.png">
 
 Desktop application to display the most frequently used words when checking subtitle files in srt format.
 
